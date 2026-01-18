@@ -153,7 +153,7 @@ This demonstrates:
 ---
 
 ## 👤 Author
-**[Rahul]**  
+**Rahul**  
 Aspiring Data Analyst  
 
 ---
